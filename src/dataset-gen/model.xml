@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<data>
+	<network name="Capture">
+		<changain>Isotropic</changain>
+		<gainexponent>5</gainexponent>
+		<gaindenom>1.8</gaindenom>
+		<nodepower>5.28</nodepower>
+		<noisepower>0.33</noisepower>
+		<CsThresh>0.98</CsThresh>
+		<RxThresh>1.22</RxThresh>
+		<CpThresh>1.11</CpThresh>
+		<multradios>False</multradios>
+		<numchannels>1</numchannels>
+	</network>
+</data>

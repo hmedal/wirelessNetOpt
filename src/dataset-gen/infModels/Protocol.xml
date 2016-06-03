@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<data>
+	<network name="Protocol">
+		<noisemult>0.32</noisemult>
+		<commrange>10.86</commrange>
+		<multradios>True</multradios>
+		<numchannels>2</numchannels>
+	</network>
+</data>

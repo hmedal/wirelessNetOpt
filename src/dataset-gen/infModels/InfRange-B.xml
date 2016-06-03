@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<data>
+	<network name="Inf-Range">
+		<modeltype>B</modeltype>
+		<csThresh>5.47</csThresh>
+		<gainexp>3.88</gainexp>
+		<gaindenom>1.7</gaindenom>
+		<nodepower>3.7</nodepower>
+		<cpthresh>4.88</cpthresh>
+		<rxthresh>2.26</rxthresh>
+		<multradios>False</multradios>
+		<numchannels>1</numchannels>
+	</network>
+</data>

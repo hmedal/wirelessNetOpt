@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<data>
+	<network name="Additive">
+		<changain>Isotropic</changain>
+		<gainexponent>3</gainexponent>
+		<gaindenom>3.2</gaindenom>
+		<nodepower>100.3</nodepower>
+		<noisepower>1.37</noisepower>
+		<SINR>0.98</SINR>
+		<CsThresh>1.17</CsThresh>
+		<multradios>True</multradios>
+		<numchannels>3</numchannels>
+	</network>
+</data>
